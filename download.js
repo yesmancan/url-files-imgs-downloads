@@ -37,7 +37,7 @@
 
   */
 
-  download_file_httpget('http://oldmag.net/wp-content/uploads/2014/12/dali_moma_.jpg')
+  download_file_httpget('https://cdn.okul.com.tr/galleries/3/1/630x420/16-year-old-artist-dimitra-milan-1.jpg')
 
 
   /*
