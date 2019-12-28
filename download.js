@@ -98,7 +98,7 @@
   //     "parentId": 1
   //   }
   // ];
-  // data = data.map(m => m.label = 'https://sports.lvbet.com/img/icons/sports/' + m.label + '.svg')
+  // data = data.map(m => m.label = 'https://img/icons/sports/' + m.label + '.svg')
   // for (let i = 0; i < data.length; i++) {
   //   download_file_httpget(data[i])
   // }
